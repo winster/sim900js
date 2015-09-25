@@ -11,7 +11,11 @@
     "url": "git+https://github.com/sensamo/sim900js.git"
   },
   "keywords": [
-    "sim900"
+    "sim900",
+    "gprs",
+    "gsm",
+    "cellular",
+    "simcom"
   ],
   "author": "Mike Reich",
   "license": "MIT",
